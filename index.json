@@ -1,27 +1,32 @@
-{
-  {
-    name:"Daniele De Cian",
-    amount:10,
-    img:"https://scontent.ftbs4-1.fna.fbcdn.net/v/t1.18169-9/26166115_10212225775773620_3374144411495030360_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=L-L1Gp9aKpAAX9Z-QGT&_nc_ht=scontent.ftbs4-1.fna&oh=00_AT-O87USrQAnSn2hM6cbxF5jK5cPu0RBRw6ek6oq38LZ5A&oe=62277527"
-  },{
-    name:"Robert Bain",
-    amount:400.73,
-    img:"https://scontent.ftbs4-1.fna.fbcdn.net/v/t1.6435-1/c30.70.180.180a/p240x240/106543959_103044691481106_2936965720060376747_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=7206a8&_nc_ohc=WK5JhW_nBFYAX_I7a0D&tn=d4hFm6zhGfrjrlbR&_nc_ht=scontent.ftbs4-1.fna&oh=00_AT8KzgSJ2gPGJaMiX9Eidx9vke4JCzmXbYzETpfY1ffbew&oe=6227C091"
-  },{
-    name:"Totò Arena",
-    amount:30,
-    img:"https://scontent.ftbs4-1.fna.fbcdn.net/v/t1.6435-1/c51.198.301.301a/s200x200/67907602_10215374278973656_2665183479553064960_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=7206a8&_nc_ohc=fpptgbCjQVgAX-bxl0a&_nc_ht=scontent.ftbs4-1.fna&oh=00_AT8o1f1b3Svg88CftvThEByHOe3XMtz-Hrj3Y76IZ4dOFA&oe=62272988"
-  },{
-    name:"Matthew Cornelius",
-    amount:150,
-    img:"https://static-exp1.licdn.com/sc/h/244xhbkr7g40x6bsu4gi6q4ry"
-  },{
-    name:"Makovi Gábor",
-    amount:29.49,
-    img:"https://ssl.gstatic.com/ui/v1/icons/mail/profile_mask2.png"
-  },{
-    name:"Tyrell Owens",
-    amount:23.30,
-    img:"https://ssl.gstatic.com/ui/v1/icons/mail/profile_mask2.png"
-  }
-}
+[
+   {
+      "name":"Daniele De Cian",
+      "amount":10,
+      "img":"https://scontent.ftbs4-1.fna.fbcdn.net/v/t1.18169-9/26166115_10212225775773620_3374144411495030360_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=L-L1Gp9aKpAAX9Z-QGT&_nc_ht=scontent.ftbs4-1.fna&oh=00_AT-O87USrQAnSn2hM6cbxF5jK5cPu0RBRw6ek6oq38LZ5A&oe=62277527"
+   },
+   {
+      "name":"Robert Bain",
+      "amount":400.73,
+      "img":"https://scontent.ftbs4-1.fna.fbcdn.net/v/t1.6435-1/c30.70.180.180a/p240x240/106543959_103044691481106_2936965720060376747_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=7206a8&_nc_ohc=WK5JhW_nBFYAX_I7a0D&tn=d4hFm6zhGfrjrlbR&_nc_ht=scontent.ftbs4-1.fna&oh=00_AT8KzgSJ2gPGJaMiX9Eidx9vke4JCzmXbYzETpfY1ffbew&oe=6227C091"
+   },
+   {
+      "name":"Totò Arena",
+      "amount":30,
+      "img":"https://scontent.ftbs4-1.fna.fbcdn.net/v/t1.6435-1/c51.198.301.301a/s200x200/67907602_10215374278973656_2665183479553064960_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=7206a8&_nc_ohc=fpptgbCjQVgAX-bxl0a&_nc_ht=scontent.ftbs4-1.fna&oh=00_AT8o1f1b3Svg88CftvThEByHOe3XMtz-Hrj3Y76IZ4dOFA&oe=62272988"
+   },
+   {
+      "name":"Matthew Cornelius",
+      "amount":150,
+      "img":"https://static-exp1.licdn.com/sc/h/244xhbkr7g40x6bsu4gi6q4ry"
+   },
+   {
+      "name":"Makovi Gábor",
+      "amount":29.49,
+      "img":"https://ssl.gstatic.com/ui/v1/icons/mail/profile_mask2.png"
+   },
+   {
+      "name":"Tyrell Owens",
+      "amount":23.3,
+      "img":"https://ssl.gstatic.com/ui/v1/icons/mail/profile_mask2.png"
+   }
+]
